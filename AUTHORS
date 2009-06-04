@@ -1,0 +1,26 @@
+Narendra Sisodiya <narendra.sisodiya@gmail.com>
+Pavol Rusnak <stick@gk2.sk>
+Vidar Hokstad <vidar@hokstad.com>
+
+The Wave Gadget SVG editor contains code from these projects:
+
+SVG-Edit
+http://code.google.com/p/svg-edit/
+Copyright  Narendra Sisodiya and Pavol Rusnak
+
+jQuery JavaScript Library v1.3.2
+http://jquery.com/
+Copyright (c) 2009 John Resig
+(Now pulled in from the Google hosted version)
+
+jQuery Right-Click Plugin
+http://abeautifulsite.net/notebook/68
+Copyright (c) 2008 Cory S.N. LaViska
+
+Farbtastic
+http://acko.net/dev/farbtastic
+Copyright (c) 2007 Steven Wittens
+
+Modifications for the Google Gadget
+http://www.hokstad.com/svg-editor-gadget-for-google-wave.html
+Copyright (c) 2009 Vidar Hokstad
